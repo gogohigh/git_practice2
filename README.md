@@ -1,2 +1,1 @@
-"hello git" 
-"#Hello github!!" 
+#Hello github!!
